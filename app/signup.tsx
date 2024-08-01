@@ -69,7 +69,6 @@ const styles = StyleSheet.create({
   inputContainer: {
     marginVertical: 40,
     flexDirection: "row",
-    borderWidth: 1,
   },
 
   input: {
